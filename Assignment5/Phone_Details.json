@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6086838b816c0014244a0983"
+  },
+  "Phoneid": "1",
+  "Manufacturer": "Apple",
+  "Model": "Iphone 12",
+  "Price": "£1200",
+  "Display_Size": "6 inch",
+  "Storage": "128GB",
+  "Ram": "8GB"
+},{
+  "_id": {
+    "$oid": "6086838b816c0014244a0985"
+  },
+  "Phoneid": "3",
+  "Manufacturer": "Oneplus",
+  "Model": "OnePlus 9 Pro",
+  "Price": "£900",
+  "Display_Size": "6.75 inch",
+  "Storage": "128GB",
+  "Ram": "8GB"
+}]
